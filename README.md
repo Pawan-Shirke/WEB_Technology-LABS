@@ -11,7 +11,7 @@ Each folder in this repository represents a separate Lab Assignment.
 | Lab No.| Code Link | Deployed Link |
 |--------|-----------|---------------|
 | Lab 1 | (https://drive.google.com/file/d/19e8jgOtgFWj2NfELm6eLyBGuOEFo671u/view?usp=drive_link) | (https://stalwart-florentine-ed0204.netlify.app/) |
-| Lab 2 | [View Code](#) | (#) |
-| Lab 3 | [View Code](#) | [Live Demo](#) |
-| Lab 4 | [View Code](#) | [Live Demo](#) |
-| Lab 5 | [View Code](#) | [Live Demo](#) |
+| Lab 2 | (https://drive.google.com/file/d/1yZYNscE1n_BAHAw0e4CXN14VS6tp7PWt/view?usp=drive_link) | (https://luxury-tiramisu-f90b50.netlify.app/) |
+| Lab 3 | (https://drive.google.com/file/d/10kN3w_sOb8nAUgS7vVGQCx4gkb3ZaGI4/view?usp=drive_link) | (https://unique-arithmetic-49782d.netlify.app/) |
+| Lab 4 | (https://drive.google.com/file/d/1H4zweZ3FoPSus6JOawZMTkxoFTlybrRh/view?usp=drive_link) | (https://endearing-unicorn-46365c.netlify.app/) |
+| Lab 5 | (https://drive.google.com/file/d/1tDQHnMFfAJeapr97tt4XTABOfZ8uYS2v/view?usp=drive_link) | (https://superb-syrniki-e2b5f0.netlify.app/) |
